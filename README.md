@@ -1,5 +1,6 @@
 # luarocks struct v1.2-3
-Adapted the original luarocks rock, [struct](https://luarocks.org/modules/luarocks/struct) to work with Lua `v5.4.8`
+Adapted the original luarocks rock, [struct](https://luarocks.org/modules/luarocks/struct) to work with Lua `v5.4.8`.
+> NOTE: This is not an official version. It's version numbering is "v1.2-3" is a poor humour.
 
 ## How to use
 Place the `struct-1.2-3.rockspec` in:
